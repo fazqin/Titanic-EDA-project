@@ -54,7 +54,6 @@ Contoh visualisasi distribusi data sebelum dan sesudah transformasi log:
 |----------------------|----------------------|
 | ![Distribusi Fare](assets/fare_dist.png) | ![Distribusi Log Fare](assets/log_fare_dist.png) |
 
-> Gambar bisa ditambahkan setelah hasil plot disimpan via `plt.savefig()`.
 
 ---
 
