@@ -52,7 +52,7 @@ Contoh visualisasi distribusi data sebelum dan sesudah transformasi log:
 
 | Sebelum Transformasi | Setelah Transformasi |
 |----------------------|----------------------|
-| ![Distribusi Fare](assets/fare_dist.png) | ![Distribusi Log Fare](assets/log_fare_dist.png) |
+| ![Distribusi Fare](Assets/fare_dist.png) | ![Distribusi Log Fare](Assets/log_fare_dist.png) |
 
 
 ---
